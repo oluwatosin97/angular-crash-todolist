@@ -1,1 +1,1 @@
-
+FROM denoland/deno:latest
